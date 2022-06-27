@@ -9,4 +9,4 @@ Aftering installing pip, you need to install the pip package called gtrie-cli
 `pip install gtrie-cli`
 
 After intalling the package, a list of all the commands are shown in the help menu
-`gtrie_cli.py -l`
+`gtrie_cli.py -h`
