@@ -1,7 +1,7 @@
-#Overiew
+# Overiew
 The Client side of the project uses a python script to connect to the server and send requests. I uploaded the script to pip, so users can have a easy time executing the commands with simple operations. 
 
-#Installation
+# Installation
 
 Pip Installation: https://pip.pypa.io/en/stable/installation/
 
