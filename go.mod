@@ -1,3 +1,5 @@
-module trie-app
+module test
 
-go 1.18
+go 1.15
+
+require github.com/stretchr/testify v1.7.5
